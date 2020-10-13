@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi~ Hello! 👋
 
- My Site: [erik](http://h1code.cn)
-
- - 🥀 2020
- - 📖 I'am currently studying java
+ - 🎓 2020
+ - 📖 I'am currently learning java
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&count_private=true)](https://github.com/kocierik)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact)](https://github.com/kocierik)
