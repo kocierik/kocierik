@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
  - 🎓 2020
- - 📖 I'm currently learning java
+ - 📖 I'm currently learning C++
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&theme=onedark)
