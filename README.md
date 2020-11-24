@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+***
 <!--
 **kocierik/kocierik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
  - 🎓 2020
- - 📖 I'm currently learning C++
+ - 📖 I'm currently learning:
+     -C++
+     -React
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&theme=onedark)
