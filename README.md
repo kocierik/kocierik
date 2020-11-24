@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 🎓 2020
- - 📖 I'm currently learning:
-     -C++
-     -React
+- 📖 I'm currently learning:
+    - C++
+    - React
+***
+     
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&theme=onedark)
