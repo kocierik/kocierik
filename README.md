@@ -20,4 +20,4 @@ Here are some ideas to get you started:
      
  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&exclude_repo=kocierik.github.io&hide=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&theme=tokyonight)
