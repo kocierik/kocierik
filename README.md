@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 ***
      
 ## General Info  
-![stats](https://github-readme-stats.vercel.app/api?username=kocierik&count_private=true&show_icons=true&theme=algolia)  
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&theme=algolia)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia" />
+</a>
