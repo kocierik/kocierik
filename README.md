@@ -18,10 +18,6 @@ Here are some ideas to get you started:
     - C++       🌑
 ***
      
-# Activity Info  
-## General Info  
 ## General Info  
 ![stats](https://github-readme-stats.vercel.app/api?username=kocierik&count_private=true&show_icons=true&theme=algolia)  
-
-## Languages  
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&theme=algolia)
