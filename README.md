@@ -18,6 +18,13 @@ Here are some ideas to get you started:
     - C++       🌑
 ***
      
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&exclude_repo=kocierik.github.io&hide=swift)
+# Activity Info  
+## General Info  
+![stats](https://github-readme-stats.vercel.app/api?username=kocierik&count_private=true&show_icons=true&theme=algolia)  
+
+## Languages  
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&theme=algolia)
+
+
+# Weekly Activities
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kocierik)](https://wakatime.com/@kocierik)
