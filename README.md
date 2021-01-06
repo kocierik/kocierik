@@ -1,4 +1,5 @@
-### Hi there 🌏
+### Hi there 🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=kocierik.kocierik)
+
 <!--
 **kocierik/kocierik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,8 @@ Here are some ideas to get you started:
 - I'm currently learning:   📖
     - C++       🌑
 ***
-     
+
+
 ## General Info  
 <a href="https://github.com/kocierik/kocierik">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&include_all_commits=true&theme=algolia" alt="Erik's github stats" />
