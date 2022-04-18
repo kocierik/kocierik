@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     
 <p align="center">
         <a href="https://github.com/kocierik/kocierik" >
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia&langs_count=13&text_color=0084f0" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia&langs_count=13&text_color=0084f0&bg_color=000000" />
         </a>
     </p>
 </span>
