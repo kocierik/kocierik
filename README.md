@@ -25,9 +25,11 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kocierik&show_icons=true&include_all_commits=true&theme=algolia" alt="Erik's github stats" />
 </a>
 -->
-        
-<a href="https://github.com/kocierik/kocierik" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia" />
-</a>
-    </span>
+    
+    
+<p align="center">
+        <a href="https://github.com/kocierik/kocierik" >
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kocierik&layout=compact&theme=algolia" />
+        </a>
+    </p>
 </span>
